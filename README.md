@@ -5,3 +5,4 @@ Allow 1 to 2 hours to activate your key once done then copy the key and download
 successfully run the project
 paste your API key to Tempapp.js file inside components 
 after all run npm start in terminal to run the project in local host 
+Now you can search any city in the search bar and check the temperature
